@@ -8,6 +8,7 @@ body {
 
 header {
   background-color: rgb(27, 27, 205);
+  color: rgb(182, 138, 138);
 }
 
 footer {
@@ -29,6 +30,8 @@ p {
 /* Put a border around your image */
 
 img {
+  border: 5px solid black;
+  margin: 30px;
 }
 
 /* Change the font-family of your list */
